@@ -35,7 +35,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <a href = "mailto:bianchi92@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/cb-lorenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Laurentius96/Laurentius96/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
