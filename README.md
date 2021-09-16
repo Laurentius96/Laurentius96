@@ -1,7 +1,23 @@
 # Hello there! 👋 
 
-### Eu sou o Lorenzo C. Bianchi [...]
+### Eu sou o Lorenzo C. Bianchi, tenho 25 anos, sou aluno da Blue EdTech que irá me alavancar e me ajudar na minha meta de ser um desenvolvedor Full Stack!
 
+<br/>
+
+### Curiosidades & Informações:
+
+* 👩🏻‍🎓 Sou formado em Engenharia de Produção pela PUCPR, mas estou em transição de carreira para a área de Desenvolvimento Web;
+* 🌎 Sou de Ilhéus (BA) terra da Gabriela gravo e canela, mas atulamente moro em Curitiba (PR);
+* ⌛ Meus hobbies são: praticar tiro com arco, cinema, programar (mais nova paixão);
+* 🚀 Atualmente também busco me aperfeiçoar em metodologias Agile; 
+* ☄ Também venho me aprimorando através de bootcamps, imerções internacionais, projetos livres e melhorando minhas Soft Skills;
+* 🏗 Meu GitHub ainda está em desenvolvimento, então alguns erros vão rolar kkkk
+
+<br/>
+
+<h4 align="center">"⁠A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles." - Sérgio Arena </h4>
+
+--------------------------------------------------------------
 <!--
 ***************************************************************************  Statistics: *****************************************************************************************
 -->
