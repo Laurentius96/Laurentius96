@@ -19,7 +19,7 @@
 
 --------------------------------------------------------------
 <!--
-***************************************************************************  Statistics: *****************************************************************************************
+*************************************************************************** Statistics: *****************************************************************************************
 -->
 ## Statistics:
 ![](https://komarev.com/ghpvc/?username=Laurentius96&color=blue&style=flat)
@@ -28,14 +28,14 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><p align="center"><a href="#"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=Lorenzo96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Lorenzo's github stats" /></a></p>
+      <td><p align="center"><a href="#"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Lorenzo's github stats" /></a></p>
       </td>
     </tr>
-      <td><p align="center"><a href="#"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenzo96&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
+      <td><p align="center"><a href="#"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laurentius96&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
       </td>
     </tr>
     <tr>
-      <td><p align="center"><a href="#"><img width="500px"src="https://github-readme-streak-stats.herokuapp.com/?user=Lorenzo96&hide_border=true&theme=yeblu" /></a></p>
+      <td><p align="center"><a href="#"><img width="500px"src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu" /></a></p>
       </td>
     </tr>
 
@@ -43,7 +43,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 
 <!--
-***************************************************************************     ícones    *****************************************************************************************
+***************************************************************************  ícones  *****************************************************************************************
 -->
 
 <h4 align="center"> Languages and Tools: </h4>
@@ -57,7 +57,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ##
 <!--
-***************************************************************************     Links    *****************************************************************************************
+***************************************************************************   Links   *****************************************************************************************
 -->
 <div> 
   <a href="https://www.instagram.com/cb.lorenzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
