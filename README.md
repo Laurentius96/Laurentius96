@@ -7,10 +7,10 @@
 ### Curiosidades & Informações:
 
 * 👩🏻‍🎓 Sou formado em Engenharia de Produção pela PUCPR, mas estou em transição de carreira para a área de Desenvolvimento Web;
-* 🌎 Sou de Ilhéus (BA) terra da Gabriela gravo e canela, mas atulamente moro em Curitiba (PR);
+* 🌎 Sou de Ilhéus (BA) terra da Gabriela gravo e canela, mas atualmente moro em Curitiba (PR);
 * ⌛ Meus hobbies são: praticar tiro com arco, cinema, programar (mais nova paixão);
 * 🚀 Atualmente em paralelo busco me aperfeiçoar em metodologias Agile; 
-* ☄ Lifelong learning é meu mantra, estou sempre aprendendo seja através de bootcamps, imerções internacionais, projetos livres ou melhorando minhas Soft Skills;
+* ☄ Lifelong learning é meu mantra, estou sempre aprendendo seja através de bootcamps, imersões internacionais, projetos livres ou melhorando minhas Soft Skills;
 * 🏗 Meu GitHub ainda está em desenvolvimento, então alguns erros podem rolar kkkk...
 
 <br/>
