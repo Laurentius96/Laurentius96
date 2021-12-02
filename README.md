@@ -1,6 +1,6 @@
 # Hello there! 👋 
 
-### Eu sou o Lorenzo C. Bianchi, tenho 25 anos, sou aluno da Blue EdTech que irá me alavancar e me ajudar na minha meta de ser um desenvolvedor Full Stack!
+### Eu sou o Lorenzo C. Bianchi, tenho 25 anos, sou aluno da Blue EdTech e do curso Programador-BR ambos vão me alavancar e me ajudar na minha meta de ser um desenvolvedor Full Stack!
 
 <br/>
 
