@@ -11,7 +11,7 @@
 * ⌛ Meus hobbies são: praticar tiro com arco, cinema, programar (mais nova paixão);
 * 🚀 Atualmente em paralelo busco me aperfeiçoar em metodologias Agile; 
 * ☄ Lifelong learning é meu mantra, estou sempre aprendendo seja através de bootcamps, imersões internacionais, projetos livres ou melhorando minhas Soft Skills;
-* 🏗 Meu GitHub ainda está em desenvolvimento, então alguns erros podem rolar kkkk...
+* 🏗 Meu GitHub ainda está em desenvolvimento, e ainda falta organizar melhor os arquivos README.md e o repositório...
 
 <br/>
 
