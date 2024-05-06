@@ -1,15 +1,15 @@
 # Hello there! 👋 
 
-### Eu sou o Lorenzo C. Bianchi, tenho 28 anos, sou aluno da Blue EdTech e do curso Programador-BR ambos vão me alavancar e me ajudar na minha meta de ser um desenvolvedor Full Stack!
+### Eu sou o Lorenzo C. Bianchi, tenho 28 anos, sou aluno da Pós-Graduação em Ciencia de Dados do Centro Universitário União das Américas Descomplica e da Alura Cursos que vão me alavancar e me ajudar na minha meta de ser um Data Science
 
 <br/>
 
 ### Curiosidades & Informações:
 
-* 👩🏻‍🎓 Sou formado em Engenharia de Produção pela PUCPR, mas estou em transição de carreira para a área de Desenvolvimento Web;
+* 👩🏻‍🎓 Sou formado em Engenharia de Produção pela PUCPR, mas estou em transição de carreira para a área de Data Science;
 * 🌎 Sou de Ilhéus (BA) terra da Gabriela gravo e canela, mas atualmente moro em Curitiba (PR);
 * ⌛ Meus hobbies são: praticar tiro com arco, cinema, programar (mais nova paixão);
-* 🚀 Atualmente em paralelo busco me aperfeiçoar em metodologias Agile; 
+* 🚀 Atualmente em paralelo busco me aperfeiçoar em Inteligência Artificial; 
 * ☄ Lifelong learning é meu mantra, estou sempre aprendendo seja através de bootcamps, imersões internacionais, projetos livres ou melhorando minhas Soft Skills;
 * 🏗 Meu GitHub está em processo de ajuste, ainda falta organizar melhor os arquivos README.md e os repositórios...
 
