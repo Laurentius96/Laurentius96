@@ -1,6 +1,6 @@
 # Hello there! 👋 
 
-### Eu sou o Lorenzo C. Bianchi, tenho 28 anos, sou aluno da Pós-Graduação em Ciência de Dados do Centro Universitário União das Américas Descomplica e da Alura cursos que vão me alavancar e me ajudar a ser um Cientista de Dados.
+### Meu nome é Lorenzo C. Bianchi, tenho 28 anos e sou estudante de pós-graduação em Ciência de Dados no Centro Universitário União das Américas Descomplica. Sou também aluno da Alura, onde realizo cursos que me auxiliarão a aprimorar minhas habilidades e me destacar como um Cientista de Dados.
 
 <br/>
 
