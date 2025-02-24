@@ -1,5 +1,3 @@
-Here's a professionally written English version of your GitHub README.md:
-
 # Hello there! 👋 
 
 ### I'm Lorenzo C. Bianchi, a 28-year-old Data Science postgraduate from Centro Universitário União das Américas Descomplica. I'm also a DNC student, where I work on projects to enhance my skills and establish myself as a Data Scientist.
