@@ -1,90 +1,77 @@
+Here's a professionally written English version of your GitHub README.md:
+
 # Hello there! 👋 
 
-### Meu nome é Lorenzo C. Bianchi, tenho 28 anos e sou estudante de pós-graduação em Ciência de Dados no Centro Universitário União das Américas Descomplica. Sou também aluno da Alura, onde realizo cursos que me auxiliarão a aprimorar minhas habilidades e me destacar como um Cientista de Dados.
+### I'm Lorenzo C. Bianchi, a 28-year-old Data Science postgraduate from Centro Universitário União das Américas Descomplica. I'm also a DNC student, where I work on projects to enhance my skills and establish myself as a Data Scientist.
 
 <br/>
 
-### Curiosidades & Informações:
+### About Me:
 
-* 👩🏻‍🎓 Sou formado em Engenharia de Produção pela PUCPR, mas estou em transição de carreira para a área de Data Science;
-* 🌎 Sou de Ilhéus (BA) terra da Gabriela gravo e canela, mas atualmente moro em Curitiba (PR);
-* ⌛ Meus hobbies são: praticar tiro com arco, cinema, programar (mais nova paixão);
-* 🚀 Atualmente em paralelo busco me aperfeiçoar em Inteligência Artificial; 
-* ☄ Lifelong learning é meu mantra, estou sempre aprendendo seja através de bootcamps, imersões internacionais, projetos livres ou melhorando minhas Soft Skills;
-* 🏗 Meu GitHub está em processo de ajuste, ainda falta organizar melhor os arquivos README.md e os repositórios...
+* 👩🏻‍🎓 Industrial Engineering graduate from PUCPR, currently transitioning into Data Science
+* 🌎 Originally from Ilhéus (BA), the land of "Gabriela, Clove and Cinnamon", now based in Curitiba (PR)
+* ⌛ Hobbies include archery, cinema, and coding (my newest passion)
+* 🚀 Currently focusing on advancing my Artificial Intelligence expertise
+* ☄ "Lifelong learning" is my mantra - constantly growing through bootcamps, international immersions, personal projects, and soft skills development
 
 <br/>
 
-<h4 align="center">"⁠A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles." - Sérgio Arena </h4>
+<h4 align="center">"The key isn't just knowing the code or commands, it's understanding what to do with them." - Sérgio Arena </h4>
 
 --------------------------------------------------------------
-<!--
-*************************************************************************** Statistics: *****************************************************************************************
--->
-## Statistics:
-![](https://komarev.com/ghpvc/?username=Laurentius96&color=blue&style=flat)
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+## Statistics
+![](https://komarev.com/ghpvc/?username=Laurentius96&color=blue&style=flat&label=Profile+Views)
 
-<center>
-    <tr>
-      <td><p align="center"><a href="#"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Lorenzo's github stats" /></a></p>
-      </td>
-    </tr>
-      <td><p align="center"><a href="#"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laurentius96&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
-      </td>
-    </tr>
-    <tr>
-      <td><p align="center"><a href="#"><img width="500px"src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu" /></a></p>
-      </td>
-    </tr>
+_NOTE: Top languages shown here reflect GitHub repository content, not skill level. This is a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-</center>
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu&cache_seconds=7200"/>
+  
+  <!-- Most Used Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurentius96&layout=compact&langs_count=8&hide_border=true&theme=yeblu&cache_seconds=7200"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu"/>
+</div>
+
+## Tech Stack:
+
+<h4 align="center"> 
+<div style="display: inline_block"><br>
+
+### 🔹 Programming Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📊 Data Analysis & Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+</h4>
 
 
-<!--
-***************************************************************************  ícones  *****************************************************************************************
--->
-
-<h4 align="center"> Languages and Tools: </h4>
-
-<h4 align="center"> <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!--  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
-</div> </h4>
-
-
-##
-<!--
-***************************************************************************   Links   *****************************************************************************************
--->
+## Let's Connect:
 <div> 
   <a href="https://www.instagram.com/cb.lorenzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/fSxWWXRtNU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
+  <a href="https://discord.gg/fSxWWXRtNU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
   <a href = "mailto:bianchi92@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/cb-lorenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/Laurentius96/Laurentius96/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
