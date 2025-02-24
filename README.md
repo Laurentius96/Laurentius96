@@ -66,11 +66,20 @@ _NOTE: Top languages shown here reflect GitHub repository content, not skill lev
   <a href="https://www.instagram.com/cb.lorenzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bianchi92@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/cb-lorenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/Laurentius96/Laurentius96/blob/output/github-contribution-grid-snake.svg)
+
+<div align="left">
+  <!-- Seus outros cards e estatísticas aqui -->
+
+  ![Snake animation](https://github.com/Laurentius96/Laurentius96/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
+  
+<!-- 
+ ![Snake animation](https://github.com/Laurentius96/Laurentius96/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+-->
 
 <!--
 **Laurentius96/Laurentius96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
