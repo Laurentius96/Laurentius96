@@ -6,7 +6,7 @@
 
 ### About Me:
 
-* 👩🏻‍🎓 Industrial Engineering graduate from PUCPR, currently transitioning into Data Science
+* 👩🏻‍🎓 Production Engineering graduate from PUCPR, currently transitioning into Data Science
 * 🌎 Originally from Ilhéus (BA), the land of "Gabriela, Clove and Cinnamon", now based in Curitiba (PR)
 * ⌛ Hobbies include archery, cinema, and coding (my newest passion)
 * 🚀 Currently focusing on advancing my Artificial Intelligence expertise
