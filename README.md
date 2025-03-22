@@ -28,19 +28,19 @@ _NOTE: Top languages shown here reflect GitHub repository content, not skill lev
     <tr style="border: none;">
       <!-- Card 1: GitHub Stats -->
       <td style="border: none; vertical-align: top;">
-        <img height="200em"
+        <img height="180em"
              src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu&cache_seconds=7200"/>
       </td>
       <!-- Card 2: Most Used Languages -->
       <td style="border: none; vertical-align: top;">
-        <img height="200em"
+        <img height="180em"
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurentius96&layout=compact&langs_count=8&hide_border=true&theme=yeblu&cache_seconds=7200"/>
       </td>
     </tr>
     <tr style="border: none;">
       <!-- Card 3: Streak Stats (ocupando as 2 colunas) -->
       <td style="border: none;" colspan="2" align="center">
-        <img height="200em"
+        <img height="180em"
              src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu"/>
       </td>
     </tr>
