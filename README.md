@@ -24,34 +24,27 @@
 _NOTE: Top languages shown here reflect GitHub repository content, not skill level. This is a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <div align="center">
-
-  <!-- Linha de cima: Stats + Languages, lado a lado -->
-  <p>
-    <img
-      align="top"
-      height="200em"
-      src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu&cache_seconds=7200"
-      alt="GitHub Stats"
-    />
-    <img
-      align="top"
-      height="200em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurentius96&layout=compact&langs_count=8&hide_border=true&theme=yeblu&cache_seconds=7200"
-      alt="Most Used Languages"
-    />
-  </p>
-
-  <!-- Linha de baixo: Streak Stats centralizado -->
-  <p>
-    <img
-      align="top"
-      height="200em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu"
-      alt="Streak Stats"
-    />
-  </p>
+  
+  <!-- Linha 1: Stats e Languages lado a lado -->
+  <img 
+       width="45%" 
+       src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu&cache_seconds=7200"
+  />
+  <img 
+       width="45%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurentius96&layout=compact&langs_count=8&hide_border=true&theme=yeblu&cache_seconds=7200"
+  />
+  
+  <br/><br/>
+  
+  <!-- Linha 2: Streak sozinho -->
+  <img 
+       width="60%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu"
+  />
 
 </div>
+
 
 
 ## Tech Stack:
