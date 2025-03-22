@@ -24,35 +24,28 @@
 _NOTE: Top languages shown here reflect GitHub repository content, not skill level. This is a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <div align="center">
-
-  <!-- Primeira linha: Stats e Most Used Languages, mesma altura -->
-  <img
-    align="top"
-    height="200"
-    style="margin-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu&cache_seconds=7200"
-    alt="GitHub Stats"
-  />
-  <img
-    align="top"
-    height="200"
-    style="margin-left: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurentius96&layout=compact&langs_count=8&hide_border=true&theme=yeblu&cache_seconds=7200"
-    alt="Most Used Languages"
-  />
-
-  <!-- Segunda linha: Streak Stats, aproximado da primeira linha -->
-  <br />
-  <img
-    align="top"
-    height="200"
-    style="margin-top: 8px;"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu"
-    alt="Streak Stats"
-  />
-
+  <table style="border-collapse: collapse;">
+    <tr style="border: none;">
+      <!-- Card 1: GitHub Stats -->
+      <td style="border: none; vertical-align: top;">
+        <img height="200em"
+             src="https://github-readme-stats.vercel.app/api?username=Laurentius96&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu&cache_seconds=7200"/>
+      </td>
+      <!-- Card 2: Most Used Languages -->
+      <td style="border: none; vertical-align: top;">
+        <img height="200em"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurentius96&layout=compact&langs_count=8&hide_border=true&theme=yeblu&cache_seconds=7200"/>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <!-- Card 3: Streak Stats (ocupando as 2 colunas) -->
+      <td style="border: none;" colspan="2" align="center">
+        <img height="200em"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentius96&hide_border=true&theme=yeblu"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 
