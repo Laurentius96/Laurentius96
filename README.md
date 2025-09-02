@@ -1,6 +1,6 @@
 # Hello there! 👋 
 
-### I'm Lorenzo Bianchi, a 28-year-old Data Science postgraduate from Centro Universitário União das Américas Descomplica. I'm also a DNC student, where I work on projects to enhance my skills and establish myself as a Data Scientist.
+### I'm Lorenzo Bianchi, a 29-year-old Data Science postgraduate from Centro Universitário União das Américas Descomplica. I'm also a DNC student, where I work on projects to enhance my skills and establish myself as a Data Scientist.
 
 <br/>
 
