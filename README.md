@@ -36,7 +36,7 @@
 | | Project | What it shows | Stack |
 |:-:|---|---|---|
 | 🏠 | **[Airbnb Rio: Data Pipeline](https://github.com/Laurentius96/Organizing_and_analyzing_Airbnb_data)** | End-to-end cleaning and transformation of listings and reviews: missing values, IQR outliers, categorical encoding | Pandas · NumPy · Seaborn |
-| 🛒 | **[RFV Customer Segmentation](https://github.com/Laurentius96/Model_for_Analyzing_RFV_Metrics)** | Recency, Frequency and Value scoring plus clustering (K-Means, DBSCAN, Agglomerative), validated with PCA and silhouette, Davies-Bouldin and Calinski-Harabasz | scikit-learn · Plotly |
+| 🛒 | **[RFV Customer Segmentation](https://github.com/Laurentius96/Model_for_Analyzing_RFV_Metrics)** | RFV scoring and rule-based segmentation of 4,233 e-commerce customers, with an interactive dashboard: Champions are 20% of customers and 61% of revenue | Pandas · Seaborn · Recharts |
 | 🧱 | **[Concrete Strength Prediction](https://github.com/Laurentius96/Regression_Applied_to_Materials_Engineering)** | Regression benchmark (Linear, Ridge, Lasso, Random Forest, Gradient Boosting) with permutation importance and a Streamlit dashboard | scikit-learn · Streamlit |
 | 💰 | **[Data Science Salaries](https://github.com/Laurentius96/Statistical_Analysis_of_Salaries_in_Data)** | Statistical analysis of salary trends with an interactive Plotly Dash dashboard | Dash · Plotly · Pandas |
 | 🦠 | **[SafeConnect](https://github.com/Laurentius96/SafeConnect-Health-Prevention-Platform)** | Disease-spread prediction on real-world data: network-science features (NetworkX) feeding Random Forest and MLP models | NetworkX · scikit-learn |
