@@ -14,8 +14,7 @@
   <a href="#-lets-connect">Connect</a>
 </p>
 
-<a href="https://www.linkedin.com/in/cb-lorenzo/"><img alt="LinkedIn: cb-lorenzo" src="https://img.shields.io/badge/LinkedIn-cb--lorenzo-0A66C2?style=for-the-badge"></a>
-<a href="https://cert.efset.org/8SeLxc"><img alt="English: EF SET 75/100, C2 Proficient" src="https://img.shields.io/badge/English-EF%20SET%2075%2F100%20·%20C2-6D28D9?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/cb-lorenzo/"><img alt="LinkedIn: cb-lorenzo" src="https://img.shields.io/badge/LinkedIn-cb--lorenzo-0A66C2?style=for-the-badge"></a>&nbsp;<a href="https://cert.efset.org/8SeLxc"><img alt="English: EF SET 75/100, C2 Proficient" src="https://img.shields.io/badge/English-EF%20SET%2075%2F100%20·%20C2-6D28D9?style=for-the-badge"></a>
 
 </div>
 
