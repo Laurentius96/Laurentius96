@@ -1,28 +1,44 @@
 name: Generate Snake Animation
 
+# Runs twice a day (00:00 and 12:00 UTC) and on demand.
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate snake from the contribution graph
+        uses: Platane/snk@v3
         with:
-          github_user_name: Laurentius96
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+      - name: Check out the output branch
+        uses: actions/checkout@v4
         with:
-          branch: output
-          force: true
-          message: 'Generate Snake Animation'
+          ref: output
+          path: out
+
+      # Commits go to the non-default "output" branch as github-actions[bot],
+      # so they never count as profile contributions.
+      - name: Publish SVGs to the output branch
+        run: |
+          cp dist/*.svg out/
+          cd out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Snake unchanged, nothing to publish."
+            exit 0
+          fi
+          git commit -m "chore: update snake animation"
+          git push origin output
