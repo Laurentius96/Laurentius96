@@ -24,7 +24,7 @@
 
 **Production Engineer turned Data Scientist.** For 3+ years at **Deloitte (Risk Advisory)** I turned operational, contractual and financial data into audit evidence, internal-control tests (SOX) and executive reports. Today I build end-to-end analytics: data pipelines, predictive models, exploratory analysis and dashboards that answer a business question.
 
-- 🎓 **B.Sc. in Production Engineering**, PUCPR (2021) · **Postgraduate degree in Data Science**, UNIAMÉRICA (2024)
+- 🎓 **B.Sc. in Production Engineering**, PUCPR (2021) · **Postgraduate degree in Data Science**, UNIAMÉRICA (2024) · **Data Scientist program**, DNC School (2026, 292 h)
 - 💼 **Business Analyst, Risk Advisory** @ Deloitte (Sep 2022 – Jan 2026)
 - 🧭 **How I work:** CRISP-DM, from the business question to the model and the dashboard
 - 🌐 **Languages:** Portuguese (native) · English, [EF SET 75/100 (C2)](https://cert.efset.org/8SeLxc): Reading 99 · Listening 72 · Speaking 53 (B2)
@@ -51,9 +51,9 @@
 | [Structuring Company's Stock](https://github.com/Laurentius96/Structuring_Company-s_Stock) | Stock management system and executive dashboard built in Excel (pivot tables, KPIs) |
 | [IA Colab Preparation Agent](https://github.com/Laurentius96/IA-Colab_Preparation_Agent) | Desktop utility that turns Markdown lessons into Google Colab notebooks via the Drive API |
 | [Book Publication Analysis](https://github.com/Laurentius96/Analysis_of_Book_Publication_Data) | Exploratory analysis of book publishing data: genres, ratings, sales and publisher revenue |
-| [DNC Data Science](https://github.com/Laurentius96/DNC-DataScience) | Coursework: Power BI, SQL, regression, classification, clustering and ML deployment |
-| [DIO · Santander Bootcamp](https://github.com/Laurentius96/DIO-Santander_DataScience) | Bootcamp coursework: Python, Power BI, ML fundamentals and ETL |
-| [Contact Book](https://github.com/Laurentius96/Contact_Book) · [Priority Task Manager](https://github.com/Laurentius96/Priority_Task_Manager) | Python fundamentals: data structures, CLI and file persistence |
+| [DNC Data Science](https://github.com/Laurentius96/DNC-DataScience) | Data Scientist program, completed in 2026 (292 h): Excel, Power BI, Python, statistics, regression, classification, clustering, PySpark and Streamlit apps |
+| [DIO · Santander Bootcamp](https://github.com/Laurentius96/DIO-Santander_DataScience) | Santander Bootcamp 2023 study notebooks: Python fundamentals |
+| [Contact Book](https://github.com/Laurentius96/Contact_Book) · [Priority Task Manager](https://github.com/Laurentius96/Priority_Task_Manager) | DNC Python cases: interactive command-line apps with JSON persistence |
 
 </details>
 
@@ -82,7 +82,6 @@
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-<img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
 <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
@@ -93,7 +92,6 @@
 **🤖 Machine Learning & AI**
 
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-2C7FB8?style=for-the-badge">
 <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge">
 <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white">
 <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge">
@@ -114,7 +112,7 @@
 <summary><b>🧪 Also used in projects and coursework</b></summary>
 <br>
 
-PySpark · PyCaret · Hugging Face Transformers · Gradio · Google Drive API · Tkinter · PyInstaller · Playwright · pytest
+PySpark · PyCaret · Hugging Face Transformers · Gradio · statsmodels · NetworkX · Google Drive API · Tkinter · PyInstaller · Playwright · pytest
 
 </details>
 
