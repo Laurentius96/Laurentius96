@@ -24,7 +24,7 @@
 
 **Production Engineer turned Data Scientist.** For 3+ years at **Deloitte (Risk Advisory)** I turned operational, contractual and financial data into audit evidence, internal-control tests (SOX) and executive reports. Today I build end-to-end analytics: data pipelines, predictive models, exploratory analysis and dashboards that answer a business question.
 
-- 🎓 **B.Sc. in Production Engineering**, PUCPR (2021) · **Postgraduate degree in Data Science**, Descomplica (2024)
+- 🎓 **B.Sc. in Production Engineering**, PUCPR (2021) · **Postgraduate degree in Data Science**, UNIAMÉRICA (2024)
 - 💼 **Business Analyst, Risk Advisory** @ Deloitte (Sep 2022 – Jan 2026)
 - 🧭 **How I work:** CRISP-DM, from the business question to the model and the dashboard
 - 🌐 **Languages:** Portuguese (native) · English, [EF SET 75/100 (C2)](https://cert.efset.org/8SeLxc): Reading 99 · Listening 72 · Speaking 53 (B2)
@@ -140,3 +140,12 @@ PySpark · PyCaret · Hugging Face Transformers · Gradio · Google Drive API ·
 ## 🤝 Let's Connect
 
 I'm interested in data roles where analytics meets business risk and operations. The best way to reach me is **[LinkedIn](https://www.linkedin.com/in/cb-lorenzo/)**.
+
+---
+
+<div align="center">
+
+<i>"The key isn't just knowing the code or commands, it's understanding what to do with them."</i><br>
+<sub>Sérgio Arena</sub>
+
+</div>
