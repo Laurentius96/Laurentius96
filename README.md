@@ -92,6 +92,7 @@
 **🤖 Machine Learning & AI**
 
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-2C7FB8?style=for-the-badge">
 <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge">
 <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white">
 <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge">
@@ -112,7 +113,7 @@
 <summary><b>🧪 Also used in projects and coursework</b></summary>
 <br>
 
-PySpark · PyCaret · Hugging Face Transformers · Gradio · statsmodels · NetworkX · Google Drive API · Tkinter · PyInstaller · Playwright · pytest
+PySpark · PyCaret · Hugging Face Transformers · Gradio · statsmodels · Google Drive API · Tkinter · PyInstaller · Playwright · pytest
 
 </details>
 
